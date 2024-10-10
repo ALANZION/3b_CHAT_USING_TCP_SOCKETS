@@ -37,10 +37,12 @@ while True:
 ```
 ## OUTPUT:
 ### SERVER : 
-![image](https://github.com/arbasil05/3b_CHAT_USING_TCP_SOCKETS/assets/144218037/7a1db6d1-2a7a-4cd7-8464-dea2b8450bcf)
+![image](https://github.com/user-attachments/assets/134a497a-3eaa-42a7-8e99-c534081b9b18)
+
 
 ### CLIENT: 
-![image](https://github.com/arbasil05/3b_CHAT_USING_TCP_SOCKETS/assets/144218037/735b233f-ddde-4d1a-acce-b48f78f5ea2c)
+![image](https://github.com/user-attachments/assets/6553534f-e1e3-46b8-af94-c10caca7935a)
+
 
 
 ## RESULT
