@@ -1,4 +1,6 @@
 # 3b.CREATION FOR CHAT USING TCP SOCKETS
+## NAME:ALAN ZION H
+## REG NO:212223240004
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
 ## ALGORITHM:
@@ -8,8 +10,6 @@ To write a python program for creating Chat using TCP Sockets Links.
  server
 4. Send and receive the message using the send function in socket.
 ## PROGRAM
-## NAME:ALAN ZION H
-## REG:212223240004
 ## SERVER:
 ```
 import socket
